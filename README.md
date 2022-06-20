@@ -17,6 +17,7 @@ To write a program to implement the simple linear regression model for predictin
 7. End the porgram
 
 ## Program:
+```
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: REETHIKA.R
 RegisterNumber: 212219220042
@@ -50,9 +51,9 @@ plt.title("h vs s (Testing Set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
-
+```
 ## Output:
-![image](https://user-images.githubusercontent.com/98681990/174649755-10c2f003-3c88-48dc-b13f-1238a544396f.png)
+
 ![image](https://user-images.githubusercontent.com/98681990/174649788-7139e2ec-d53e-4c15-ad55-c696a6a4a0e4.png)
 
 ## Result:
